@@ -192,7 +192,7 @@ Developers can create applications, web services, and enterprise software.
 | Licensing cost | Commercial software requiring paid licenses |
 | Resource intensive | Requires higher system resources compared to lightweight OS |
 
-# 9. Comparison with Other Operating Systems
+## 9. Comparison with Other Operating Systems
 
 | Feature | Windows | Linux | macOS |
 | :--- | :---: | ---: | --- |
